@@ -191,3 +191,6 @@ details p { margin: -2px 0 20px; color: var(--muted); }
 @media (max-width: 620px) {
   .service-grid-two, .value-grid, .included-list { grid-template-columns: 1fr; }
 }
+
+/* Service prices */
+.service-price { margin: -6px 0 14px; font-weight: 700; color: var(--accent-dark); font-size: 1.02rem; }
